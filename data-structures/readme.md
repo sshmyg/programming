@@ -20,10 +20,28 @@
 
 ---
 
-# [Stack](https://www.tutorialspoint.com/data_structures_algorithms/stack_algorithm.htm) abstract data structure (ADS)
+# Arrays
+
+---
+
+# Stack abstract data structure (ADS)
 
 We can place or remove one item from the top of the stack only **(LIFO)**. A real-world stack allows operations at one end only.
 
-# [Queue](https://www.tutorialspoint.com/data_structures_algorithms/dsa_queue.htm)
+### Links:
+
+- https://www.tutorialspoint.com/data_structures_algorithms/stack_algorithm.htm
+
+---
+
+# Queue
 
 Unlike stacks, a queue is open at both its ends. One end is always used to insert data (enqueue) and the other is used to remove data (dequeue) **(FIFO)**.
+
+### Links:
+
+- [https://www.tutorialspoint.com/data_structures_algorithms/dsa_queue.htm](https://www.tutorialspoint.com/data_structures_algorithms/dsa_queue.htm)
+
+---
+
+# Hash table

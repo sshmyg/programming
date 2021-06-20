@@ -1,56 +1,16 @@
-1. Algorithmic complexity / Big-O / Asymptotic analysis
-2. Data structures
+# Programming theory
 
-   - Arrays
-   - Linked lists
-   - Stack
-   - Queue
-   - Hash table
-
-3. Binary search
+1. [Algorithmic complexity / Big-O / Asymptotic analysis](algorithms/readme.md)
+2. [Data structures](data-structures/readme.md)
+3. [Design patterns](design-patterns/readme.md)
 4. Bitwise operations
-5. Trees
-6. Binary search trees (BSTs)
-7. Heap / Priority Queue / Binary Heap
-8. Sorting
-
-   - Bubble sort
-   - Merge sort
-   - Quick sort
-   - Selection sort
-   - Insertion sort
-   - Radix sort
-
-9. Graphs
-10. Recursion
-11. Dynamic programming
-12. Object oriented programming
-13. Design patterns
-
-    - strategy
-    - singleton
-    - adapter
-    - prototype
-    - decorator
-    - visitor
-    - factory, abstract factory
-    - facade
-    - observer
-    - proxy
-    - delegate
-    - command
-    - state
-    - memento
-    - iterator
-    - composite
-    - flyweight
-
-14. Combinatorics (n choose k) & probability
-15. NP, NP-Complete and approximation algorithms
-16. Caches
-17. Processes and threads
-18. String searching & manipulations
-19. Tries
+5. Heap / Priority Queue / Binary Heap
+6. Dynamic programming
+7. Object oriented programming
+8. Combinatorics (n choose k) & probability
+9. Caches
+10. Processes and threads
+11. Tries
 
 # Good to know
 
