@@ -1,19 +1,26 @@
 # Design patterns
 
-    - strategy
+    ## Creational
+    - factory
+    - abstract factory
     - singleton
-    - adapter
     - prototype
-    - decorator
-    - visitor
-    - factory, abstract factory
-    - facade
-    - observer
+
+
+    ## Structural
     - proxy
+    - adapter
+    - facade
+    - decorator
+    - composite
+    - flyweight
+
+    ## Behavioral
+    - iterator
+    - strategy
+    - visitor
+    - observer
     - delegate
     - command
     - state
     - memento
-    - iterator
-    - composite
-    - flyweight
